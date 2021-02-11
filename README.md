@@ -14,3 +14,4 @@ to start with just run these commands
 
 4. The homepage shows the operation and the url link to perform the operation just add the given value with the base url i.e http://127.0.0.1:8000/
 
+Note: i am expecting you to have django and django rest framework installed on your system.
